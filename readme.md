@@ -67,3 +67,13 @@ ___
 
 Escribit un programa para una empresa que tiene salas de juego para todas las edades y quiere calcular de forma automatica el precio que debe cobrar a sus clientes por entrar. El programa debe preguntar al usuario la edad del cliente y moestrar el precio de la entrada. Si el clinte es menor de 4 años puede entrar gratis, si tiene entre 4 y 18 años debe pagar 5€ y si es mayor de 18 años, 10€
 
+___
+## Ejercicio 10
+
+La pizzeria Bella Napoli ofrece pizzas vegetarianas y no vegetarianas a sus clientes. Los ingredientes para cada tipo de pizza aparece a continuación 
+
+- ingredientes vegetarianos: Pimiento y tofu
+- ingredientes no vegetarianos: Peperoni, Jamón y Salmón
+
+Escribir un programa que pregunte al usuario si quiere una pizza vegetariana o no, y en función de su respuesta le muestre un menú con los ingredientes disponibles para que elija. Solo se puede eligir un ingrediente además de la mozzarella y el tomate que están en todas las pizzas. Al final se debe mostrar por pantalla si la pizza elegida es vegetariana o no y todo los ingredientes que lleva
+
