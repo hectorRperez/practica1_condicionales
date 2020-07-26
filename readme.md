@@ -47,3 +47,12 @@ Los tramos impositivos para la declaración de la renta en un determinado país 
 ![Impuestos en los paises ejemplo](./impuestos.png)
 
 Escribir un programa que pregunte al usuario su renta anual y muestre por pantalla el tipo impositivo que le corresponde
+
+## Ejercicio 8
+
+En una determinada empresa, sus empleados son evaluados al fina de cada año. Los puntos que pueden obtener en la evaluación comienzan en 0.0 y pueden ir aumentando, traduciéndose en mejor beneficios. Los puntos que pueden conseguir los empleados pueden ser 0.0, 0.4, 0.6 o más, pero en valores intermedios entre las cifras mencionadas. A continuación se muestra una tabla con los nivles correspondientes a cada puntuación. La cantidad de dinero conseguida en cada nivel es de 2.400€ multiplicada por la puntuación del nivel
+
+
+![Ejercicio 8 tabla de puntuación](./ejercicio_8.png)
+
+Escrbir un programa que lea la puntuación del usuario e indique su nivel de rendimiento, así como la cantidad de dinero que recibirá el usuario
